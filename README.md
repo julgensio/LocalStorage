@@ -1,1 +1,3 @@
-LocalStorage
+# LocalStorage
+
+For education purpose
